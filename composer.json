@@ -1,0 +1,13 @@
+{
+  "name": "cnamaq/zac2-report",
+  "type": "library",
+  "description": "Reporting component based on composite pattern",
+  "keywords": ["reporting"],
+  "authors": [
+    {"name": "Fohl Denis", "email": "denis.fohl@lecnam.net"}
+  ],
+  "require": {
+    "cnamaq/zac2-common": "^0-stable",
+    "cnamaq/zac2-entity": "^0-stable"
+  }
+}
